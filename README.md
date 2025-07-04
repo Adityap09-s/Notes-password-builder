@@ -1,0 +1,1 @@
+A simple and secure Java console-based application that allows users to store notes and generate strong passwords. This project is designed to combine basic note-keeping functionality with a password generator — useful for managing daily tasks and securing online accounts.
